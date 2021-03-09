@@ -3,6 +3,7 @@
 <!--
 **ifemiller/ifemiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+** Readme in progress, but it's going to be great**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
