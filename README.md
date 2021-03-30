@@ -18,7 +18,7 @@ My GitHub is just me tinkering away at datasets I find interesting and practicin
  
 # Projects
 
-## Correlation One Data Science for All Empowerment Capstone Project
+## Correlation One Data Science for All Empowerment Capstone Project:
 
 ### [Non-Profit Impact on a City's Success](https://github.com/ifemiller/DS4A-Capstone-Project)
 
