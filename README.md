@@ -13,7 +13,9 @@ My GitHub is just me tinkering away at datasets I find interesting and practicin
 ## Currently: 
 
   🌟Completing a Udemy Python course that I picked to learn more about OOP and API's for a webscraping project I'd like to start
+  
   🌟Completing my [Anaplan](https://www.anaplan.com/platform/planning-and-modeling/) Level 2 Model Builder Certification
+  
   🌟Expanding on EDA practice projects
  
 # Projects
