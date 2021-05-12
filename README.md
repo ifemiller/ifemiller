@@ -6,17 +6,13 @@
 
 
 
-My GitHub is just me tinkering away at datasets I find interesting and practicing using unfamiliar Python packages to clean, explore, analyze, and visualize data. 
+My GitHub is for me to work on datasets I find interesting and practicing using unfamiliar Python packages to clean, explore, analyze, and visualize data. I am usually taking courses or working on coding challenges outside of github though! 
 
 
 
 ## Currently: 
 
-  🌟Completing a Udemy Python course that I picked to learn more about OOP and API's for a webscraping project I'd like to start
-  
-  🌟Completing my [Anaplan](https://www.anaplan.com/platform/planning-and-modeling/) Level 2 Model Builder Certification
-  
-  🌟Expanding on EDA practice projects
+  🌟Completing Courseera's Modern Big Data with SQL: a specialization with 3 courses 
  
 # Projects
 
